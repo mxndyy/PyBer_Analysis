@@ -17,6 +17,9 @@ In the multiple line chart results show ride-sharing company has more total fare
 ![PyBer_Analysis/Pyber_fare_summary](/Pyber_fare_summary.png)
 
 ## Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+### Recommendations 
+- Rural cities rides are more expensive due to scarcity, finding ways to optimize pricing to allow for lower cost rides to these areas may allow other cities to increase profitability.
+- Urban cities account for the most total fares, most rides, and most drivers. I would recommend lowering the total number of drivers and providing incentives for drivers to take on rides in rural areas. 
+- The line chart shows lower fares in rural areas in January, it would be my recommendation to obtain additional data regarding the affects of weather in these rural areas during seasons that have adverse affects on travel by car such as winter. 
 
 
